@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url('C:/Data_Tank_a/dev/Web_Test/playground/src/assets/beige.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+}
+
+/* global styles here, and also import other style files   */
